@@ -1,0 +1,6 @@
+[submodule "plugins/wcm-plugins"]
+	path = plugins/wcm-plugins
+	url = git@github.com:juliocamarero/temp-wcm-plugins.git
+[submodule "plugins/liferay-plugins"]
+	path = plugins/liferay-plugins
+	url = git@github.com:liferay/liferay-plugins.git
